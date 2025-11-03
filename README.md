@@ -1,6 +1,5 @@
 # 2.1.3-Career-Prep
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
